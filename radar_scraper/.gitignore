@@ -1,0 +1,8 @@
+.env
+*.json
+*.log
+duplicated_requests.txt
+error_urls.txt
+__pycache__/
+*.pyc
+.scrapy/
